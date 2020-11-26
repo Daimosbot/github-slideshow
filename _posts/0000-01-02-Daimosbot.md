@@ -2,5 +2,5 @@
 layout: slide
 title: "Witmy na drugim slajdzie!"
 ---
-Your text
+MAŁĄ ZMIANA
 W lewo aby wrócić:)
